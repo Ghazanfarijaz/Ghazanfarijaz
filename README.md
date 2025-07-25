@@ -2,7 +2,7 @@
 ![Banner](https://res.cloudinary.com/dnfc9g33c/image/upload/v1741217855/Simple_Work_LinkedIn_Banner_nneuxz.png)  
 
 <h1 align="center">Hi there 👋, I'm Muhammad Ghazanfar Ijaz</h1>  
-<h3 align="center">🚀 Full Stack Developer | MERN | PostgreSQL | DevOps Enthusiast</h3>  
+<h3 align="center">🚀 Full Stack Developer | MERN | GHL | PostgreSQL | DevOps Enthusiast</h3>  
 
 ---
 
