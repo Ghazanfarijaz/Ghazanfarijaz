@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Mee  
+## 👨‍💻 About Me  
 
 🔹 Hi, I'm **Muhammad Ghazanfar Ijaz**, a passionate **Full Stack Developer** with expertise in **React, Node.js, PostgreSQL, MongoDB, AWS, and DevOps**.  
 🔹 I have a **Software Engineering degree from FAST-NUCES** and love building **scalable, real-time applications**.  
