@@ -111,7 +111,7 @@ const ghazanfar = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Tools
 
 <div align="center">
   
